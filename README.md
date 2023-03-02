@@ -5,7 +5,6 @@ Web Developer
 -------------
 
 * 🌍  I'm based in Odesa, Ukraine
-* 🚀  I'm currently working on [Website for Junior JS Developers](http://philipnedelev.dev/en/)
 
 ### Skills
 
